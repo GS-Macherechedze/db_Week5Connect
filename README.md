@@ -10,5 +10,6 @@ The aim of this project is to introduce you to the connection of MySQL database 
         `npm init -y` 
 - Run the following command to install the necessary dependancies<br>
         `npm install express mysql2 nodemon cors dotenv ejs`
-- Create a `server.js` file.
-- Create Views folder and add data.ejs file
+- Open .env file and add your workbench password (Save all changes)
+- Run this command node server.js
+- Search this on your browser http://localhost:3300/data
