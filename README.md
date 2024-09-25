@@ -6,9 +6,6 @@ The aim of this project is to introduce you to the connection of MySQL database 
 - Fork the project
 - Clone the project on your local computer
 - Open the file in VS Code
-- Create a folder named api.
-- Open the terminal and navigate the api folder <br>
-        `cd api` 
 - Run the following command to initalize the backend <br>
         `npm init -y` 
 - Run the following command to install the necessary dependancies<br>
