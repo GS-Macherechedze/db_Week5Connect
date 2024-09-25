@@ -3,6 +3,7 @@
 The aim of this project is to introduce you to the connection of MySQL database to NodeJs
 
 # Procedure
+- Install Node JS >>> https://nodejs.org/en/  Step by step Video >>> https://youtu.be/NqANV4wXhx4?feature=shared
 - Fork the project
 - Clone the project on your local computer
 - Open the file in VS Code
